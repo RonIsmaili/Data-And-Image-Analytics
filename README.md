@@ -1,2 +1,2 @@
-# data-and-image-analytics
+# Data And Image Analytics
 The repository for my Data &amp; Image Analytics projects.
